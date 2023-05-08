@@ -1,2 +1,2 @@
 # MeineProjekte
-Hier sind einige Projekte, die ich während meines Studium entwickelt habe. 
+Hier sind einige Projekte, die ich während meines Studiums entwickelt habe. 
